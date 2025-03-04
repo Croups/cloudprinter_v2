@@ -1,0 +1,8 @@
+openai
+pydantic
+pydantic-ai
+nest-asyncio
+requests
+streamlit
+python-dotenv
+
